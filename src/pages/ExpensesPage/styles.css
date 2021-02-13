@@ -1,0 +1,40 @@
+.calendar{
+  background-color:transparent;
+  border: none;
+  text-align: center;
+  font-weight: 500;
+  width: 120px;
+  font-size: 14px;
+}
+
+.teste{
+  font-weight: 400;
+}
+
+th{
+  font-weight: 400;
+  text-align: left;
+  padding-left: 6px;
+  padding-bottom: 5px;
+}
+
+td{
+
+  text-align: center;
+}
+
+
+
+input {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  align-items: center;
+}
+
+input::placeholder{
+  color: #A6A6A6;
+  font-size: 14px;
+  padding-left: 6px;
+
+}
